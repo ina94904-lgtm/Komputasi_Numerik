@@ -1,0 +1,50 @@
+DAFTAR PROMPT AI YANG DIGUNAKAN
+Mata Kuliah : Komputasi Numerik
+Nama        : Melania Anggreni Ina
+NIM         : 202511420062
+Platform AI : Claude (Anthropic)
+ 
+ 
+--------------------------------------------------
+A. PERSIAPAN
+--------------------------------------------------
+1. Hapus nomor 12 dari daftar tugas Komputasi Numerik berikut.
+   (daftar tugas nomor 1-13 saya tempelkan)
+ 
+--------------------------------------------------
+B. NOMOR 5 - ALGORITMA SPL 3 VARIABEL
+--------------------------------------------------
+2. Tolong jelaskan algoritma penyelesaian SPL 3 variabel mulai dari awal.
+3. Berikan jawaban nomor 5, yaitu algoritma SPL 3 variabel.
+4. Saya memakai algoritma dari file Algoritma_spl.txt. Tolong buatkan
+   kode Python-nya.
+ 
+--------------------------------------------------
+C. NOMOR 6 DAN 7 - KODE PYTHON DI GOOGLE COLAB
+--------------------------------------------------
+5. Lanjut ke nomor 6 dan 7: buat kode Python di Google Colab dan
+   tambahkan penjelasan tiap bagian.
+6. Apakah kode Python bisa langsung dibuka di Google Colab dari GitHub?
+7. Apakah penjelasan kode diisi di dalam file Google Colab juga?
+8. Bagaimana cara menyimpan notebook agar bisa diunggah ke GitHub?
+9. Apakah notebook nomor 7 harus dibuka di Google Colab dulu sebelum
+   diunggah?
+10. Kenapa menyimpan salinan ke GitHub dari Colab tidak memunculkan apa-apa?
+ 
+--------------------------------------------------
+D. NOMOR 8 DAN 10 - SLIDE DAN NASKAH VIDEO
+--------------------------------------------------
+11. Lanjut ke nomor 8, dan buatkan naskah video dari awal sampai selesai.
+12. Slide untuk video dibuat pakai PPT atau dijelaskan langsung di file
+    GitHub?
+13. Bagaimana cara menjelaskan tiap slide ini?
+14. Bagaimana cara perkenalan diri di awal video?
+ 
+--------------------------------------------------
+E. LAINNYA
+--------------------------------------------------
+15. Video sudah selesai, tinggal membuat algoritmanya.
+16. File algoritma yang kemarin saya unggah ke GitHub tidak muncul lagi.
+  Kenapa?
+17. Setelah ini lanjut ke langkah apa?
+ 
