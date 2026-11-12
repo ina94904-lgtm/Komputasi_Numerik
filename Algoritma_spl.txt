@@ -1,0 +1,37 @@
+ALGORITMA PENYELESAIAN SISTEM PERSAMAAN LINEAR 3 VARIABEL
+Metode  : Eliminasi Gauss
+Nama    : Melania Anggreni Ina
+NIM     : 202511420062
+
+SOAL YANG DIKERJAKAN:
+ 3x + 2y -  z =  1
+  x - 3y + 2z = 17
+ 2x +  y + 4z = 20
+(ganti dengan soal pilihanmu)
+
+INPUT:
+- Angka di depan x, y, z pada ketiga persamaan
+- Angka di ruas kanan masing-masing persamaan
+
+PROSES:
+1. Mulai.
+2. Masukkan koefisien dan konstanta, lalu gabungkan menjadi satu
+   tabel (matriks augmented) berukuran 3 baris x 4 kolom.
+3. Mulai dari kolom pertama. Cari baris dengan angka terbesar
+   (abaikan tanda), lalu jadikan baris itu pivot di posisi atas.
+4. Jika pivot bernilai 0, hentikan proses karena sistem tidak
+   punya jawaban tunggal.
+5. Untuk tiap baris di bawah pivot: hitung pengali (angka di
+   bawah pivot dibagi pivot), lalu kurangkan baris itu dengan
+   pengali dikali baris pivot sehingga angkanya menjadi 0.
+6. Ulangi langkah 3-5 untuk kolom kedua, sehingga tabel
+   berbentuk segitiga (angka di bawah diagonal semuanya 0).
+7. Dari baris terakhir, hitung z = konstanta / koefisien z.
+8. Naik ke baris kedua, masukkan nilai z, lalu hitung y.
+9. Naik ke baris pertama, masukkan nilai y dan z, lalu hitung x.
+10. Cek jawaban dengan memasukkan x, y, z ke persamaan awal.
+11. Tampilkan nilai x, y, dan z.
+12. Selesai.
+
+OUTPUT:
+- Nilai x, y, dan z beserta hasil pengecekan
