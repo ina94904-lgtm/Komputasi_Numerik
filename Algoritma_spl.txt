@@ -7,7 +7,6 @@ SOAL YANG DIKERJAKAN:
  3x + 2y -  z =  1
   x - 3y + 2z = 17
  2x +  y + 4z = 20
-(ganti dengan soal pilihanmu)
 
 INPUT:
 - Angka di depan x, y, z pada ketiga persamaan
